@@ -1,0 +1,7 @@
+{
+  "name": "SupervisoresApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
